@@ -1,16 +1,18 @@
 {
-  "posts":[
+  "party": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "_id": "5cd99d4bde30eff6ebccfc15",
+      "height": "1.06m (3'6\")",
+      "race": "Hobbit",
+      "gender": "Male",
+      "birth": "22 September ,TA 2968",
+      "spouse": "",
+      "death": "Unknown (Last sighting ,September 29 ,3021,) (,SR 1421,)",
+      "realm": "",
+      "hair": "Brown",
+      "name": "Frodo Baggins",
+      "wikiUrl": "http://lotr.wikia.com//wiki/Frodo_Baggins",
+      "id": 1
     }
   ]
 }
